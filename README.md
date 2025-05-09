@@ -55,7 +55,6 @@ Une carte interactive affiche les compteurs de la ville, avec des cercles propor
 
 > Titre : **Répartition géographique du trafic cycliste à Montréal selon les compteurs (2025)**
 
----
 
 ---
 
