@@ -54,7 +54,7 @@ Colonnes clés :
 Une carte interactive affiche les compteurs de la ville, avec des cercles proportionnels au volume total de passages.
 
 > Titre : **Répartition géographique du trafic cycliste à Montréal selon les compteurs (2025)**
-
+![Carte interactive](./image_carte_interactive.png)
 
 ---
 
